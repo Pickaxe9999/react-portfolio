@@ -22,6 +22,7 @@ Jacob Hannah
 
 ## Questions?
 GitHub: [Pickaxe9999](https://github.com/Pickaxe9999)
+Deployed: https://Pickaxe9999.github.io/react-portfolio/
 
 For any aditional question you can reach me at [jacob.hannah164@gmail.com](jacob.hannah164@gmail.com)
 
